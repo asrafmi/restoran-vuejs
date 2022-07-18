@@ -1,0 +1,40 @@
+.router-link-exact-active{
+    font-weight: bold;
+}
+
+.nav-link, .navbar-brand{
+    color:black;
+}
+
+#app{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: larger;
+}
+#row-best-products{
+    justify-content:space-evenly;
+}
+#hero-img{
+    size: 0rem;
+}
+.card-product {
+    border-radius: 15px;
+}
+
+.card-img-top {
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb-item.active {
+    font-weight: bold;
+    color: black;
+}
+
+.img-fluid{
+    border-radius: 15px;
+}
